@@ -1,0 +1,1093 @@
+{
+    "projectId": "n4qgebtg809vbi573dvat2s28rizwkm0",
+    "measures": {
+      ".": {
+        "identifier": "acJoZSZMgPGP",
+        "tags": "_lcm_managed_object",
+        "title": "."
+      },
+      "# Admit Rank": {
+        "identifier": "aaZKKqQwaSfg",
+        "tags": "_lcm_managed_object",
+        "title": "# Admit Rank"
+      },
+      "# Admitted": {
+        "identifier": "abktNe8sdXqU",
+        "tags": "_lcm_managed_object",
+        "title": "# Admitted"
+      },
+      "# of Admitted Student Key": {
+        "identifier": "adCetltddsKM",
+        "tags": "_lcm_managed_object",
+        "title": "# of Admitted Student Key"
+      },
+      "#Admitted Total": {
+        "identifier": "ac5Is1a5c2XM",
+        "tags": "_lcm_managed_object",
+        "title": "#Admitted Total"
+      },
+      "#Admitted-High-priority-Yield-10": {
+        "identifier": "ab7Fhy76d591",
+        "tags": "_lcm_managed_object",
+        "title": "#Admitted-High-priority-Yield-10"
+      },
+      "#Admitted-High-priority-Yield-6": {
+        "identifier": "abq4v3YJfyqZ",
+        "tags": "_lcm_managed_object",
+        "title": "#Admitted-High-priority-Yield-6"
+      },
+      "#Admitted-High-priority-Yield-7": {
+        "identifier": "abq4uPg7g3pN",
+        "tags": "_lcm_managed_object",
+        "title": "#Admitted-High-priority-Yield-7"
+      },
+      "#Admitted-High-priority-Yield-8": {
+        "identifier": "aax4zfqAgwQu",
+        "tags": "_lcm_managed_object",
+        "title": "#Admitted-High-priority-Yield-8"
+      },
+      "#Admitted-MHigh Priority - Yield 9": {
+        "identifier": "aaqFmkithpKP",
+        "tags": "_lcm_managed_object",
+        "title": "#Admitted-MHigh Priority - Yield 9"
+      },
+      "#De-prioritized - Yield - 01": {
+        "identifier": "acXBgcNyepCw",
+        "tags": "_lcm_managed_object",
+        "title": "#De-prioritized - Yield - 01"
+      },
+      "#De-prioritized - Yield - 02": {
+        "identifier": "ab7BhSJSg0oq",
+        "tags": "_lcm_managed_object",
+        "title": "#De-prioritized - Yield - 02"
+      },
+      "#De-prioritized - Yield - 03": {
+        "identifier": "acCBhQY0haOi",
+        "tags": "_lcm_managed_object",
+        "title": "#De-prioritized - Yield - 03"
+      },
+      "#De-prioritized - Yield - 04": {
+        "identifier": "ab0BhWfZe09u",
+        "tags": "_lcm_managed_object",
+        "title": "#De-prioritized - Yield - 04"
+      },
+      "#De-prioritized - Yield - 05": {
+        "identifier": "abhBkNjwb1T0",
+        "tags": "_lcm_managed_object",
+        "title": "#De-prioritized - Yield - 05"
+      },
+      "#De-prioritized - Yield - 06": {
+        "identifier": "abqQdLFsgjQf",
+        "tags": "_lcm_managed_object",
+        "title": "#De-prioritized - Yield - 06"
+      },
+      "#De-prioritized - Yield - 07": {
+        "identifier": "aabQgDN6aUbc",
+        "tags": "_lcm_managed_object",
+        "title": "#De-prioritized - Yield - 07"
+      },
+      "#De-prioritized - Yield - 08": {
+        "identifier": "aaCQfcqjgL2L",
+        "tags": "_lcm_managed_object",
+        "title": "#De-prioritized - Yield - 08"
+      },
+      "#De-prioritized - Yield - 09": {
+        "identifier": "aalQfcqta5JZ",
+        "tags": "_lcm_managed_object",
+        "title": "#De-prioritized - Yield - 09"
+      },
+      "#De-prioritized - Yield - 10": {
+        "identifier": "adOPJ3xIhZbV",
+        "tags": "_lcm_managed_object",
+        "title": "#De-prioritized - Yield - 10"
+      },
+      "#Low Priority - Yield - 09": {
+        "identifier": "acALm2wrgZHf",
+        "tags": "_lcm_managed_object",
+        "title": "#Low Priority - Yield - 09"
+      },
+      "#Low Priority - Yield - 10": {
+        "identifier": "acTLm4Opa2Uo",
+        "tags": "_lcm_managed_object",
+        "title": "#Low Priority - Yield - 10"
+      },
+      "#Low Priority - Yield - 4": {
+        "identifier": "abliRDIQiiuF",
+        "tags": "_lcm_managed_object",
+        "title": "#Low Priority - Yield - 4"
+      },
+      "#Low Priority - Yield - 5": {
+        "identifier": "aasLtKuDaq7x",
+        "tags": "_lcm_managed_object",
+        "title": "#Low Priority - Yield - 5"
+      },
+      "#Low Priority - Yield - 6": {
+        "identifier": "aehiMDyKfl7n",
+        "tags": "_lcm_managed_object",
+        "title": "#Low Priority - Yield - 6"
+      },
+      "#Medium Priority - Yield - 10": {
+        "identifier": "aaBLnhehgY8r",
+        "tags": "_lcm_managed_object",
+        "title": "#Medium Priority - Yield - 10"
+      },
+      "#Medium Priority - Yield - 6": {
+        "identifier": "aaXLm5OsdWAK",
+        "tags": "_lcm_managed_object",
+        "title": "#Medium Priority - Yield - 6"
+      },
+      "#Medium Priority - Yield - 7": {
+        "identifier": "ab1LlLJ9gxrw",
+        "tags": "_lcm_managed_object",
+        "title": "#Medium Priority - Yield - 7"
+      },
+      "#Medium Priority - Yield - 8": {
+        "identifier": "aa3LneFvgYZi",
+        "tags": "_lcm_managed_object",
+        "title": "#Medium Priority - Yield - 8"
+      },
+      "#Medium Priority - Yield - 9": {
+        "identifier": "aaVLmgXcflH7",
+        "tags": "_lcm_managed_object",
+        "title": "#Medium Priority - Yield - 9"
+      },
+      "Admit Pool Date": {
+        "identifier": "fact.datadates.admitpooldate",
+        "tags": "_lcm_managed_object",
+        "title": "Admit Pool Date"
+      },
+      "Admit pool date": {
+        "identifier": "adUs5XE5iCfq",
+        "tags": "_lcm_managed_object",
+        "title": "Admit pool date"
+      },
+      "Admits": {
+        "identifier": "aaFLtp6OhVIm",
+        "tags": "_lcm_managed_object",
+        "title": "Admits"
+      },
+      "Admitted Students": {
+        "identifier": "acGceiFDgek5",
+        "tags": "_lcm_managed_object",
+        "title": "Admitted Students"
+      },
+      "Committed": {
+        "identifier": "aaOLmhOCdK7k",
+        "tags": "_lcm_managed_object",
+        "title": "Committed"
+      },
+      "Date_key": {
+        "identifier": "fact.yielddates.date_key",
+        "tags": "_lcm_managed_object",
+        "title": "Date_key"
+      },
+      "Deposit IQ Response Date": {
+        "identifier": "aemK1RXZcjti",
+        "tags": "_lcm_managed_object",
+        "title": "Deposit IQ Response Date"
+      },
+      "Deprioritized": {
+        "identifier": "aaXtP2pUfr2e",
+        "tags": "_lcm_managed_object",
+        "title": "Deprioritized"
+      },
+      "Dummy Date": {
+        "identifier": "fact.datadates.dummydate",
+        "tags": "_lcm_managed_object",
+        "title": "Dummy Date"
+      },
+      "Dummy Fact Number": {
+        "identifier": "fact.admittedstudents.dummyfactNumber",
+        "tags": "_lcm_managed_object",
+        "title": "Dummy Fact Number"
+      },
+      "Dummy Fact Number [Sum]": {
+        "identifier": "abQLfaYMhbno",
+        "tags": "_lcm_managed_object",
+        "title": "Dummy Fact Number [Sum]"
+      },
+      "High Priority": {
+        "identifier": "aaWtN77Ne1IF",
+        "tags": "_lcm_managed_object",
+        "title": "High Priority"
+      },
+      "Low Priority": {
+        "identifier": "aautPy8NiE0k",
+        "tags": "_lcm_managed_object",
+        "title": "Low Priority"
+      },
+      "Medium Priority": {
+        "identifier": "aaYtNKXtcT8Q",
+        "tags": "_lcm_managed_object",
+        "title": "Medium Priority"
+      },
+      "School Last Response Date": {
+        "identifier": "fact.datadates.schoollastresponsedate",
+        "tags": "_lcm_managed_object",
+        "title": "School Last Response Date"
+      },
+      "Undecided Admitted": {
+        "identifier": "aalJ8yCVgqkj",
+        "tags": "_lcm_managed_object",
+        "title": "Undecided Admitted"
+      },
+      "Withdrawn": {
+        "identifier": "aavtQen5aqHH",
+        "tags": "_lcm_managed_object",
+        "title": "Withdrawn"
+      },
+      "Yield Date": {
+        "identifier": "achJ1hfGf4zp",
+        "tags": "_lcm_managed_object",
+        "title": "Yield Date"
+      },
+      "Yield IQ Admitted Student List": {
+        "identifier": "aarpaDHvimTf",
+        "tags": "_lcm_managed_object",
+        "title": "Yield IQ Admitted Student List"
+      }
+    },
+    "attributes": {
+      "Ability to Pay": {
+        "identifier": "attr.admittedstudents.needrank",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.needrank",
+          "tags": "_lcm_managed_object",
+          "title": "Need Rank"
+        },
+        "displayForms": {
+          "Need Rank": {
+            "dfIdentifier": "label.admittedstudents.needrank",
+            "identifier": "label.admittedstudents.needrank",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Need Rank"
+          },
+          "Need Rank Order": {
+            "dfIdentifier": "label.admittedstudents.academicquality.needrankorder",
+            "identifier": "label.admittedstudents.academicquality.needrankorder",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Need Rank Order"
+          }
+        },
+        "title": "Ability to Pay"
+      },
+      "Academic Quality": {
+        "identifier": "attr.admittedstudents.academicquality",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.academicquality",
+          "tags": "_lcm_managed_object",
+          "title": "Academic Quality"
+        },
+        "displayForms": {
+          "Academic Quality": {
+            "dfIdentifier": "label.admittedstudents.academicquality",
+            "identifier": "label.admittedstudents.academicquality",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Academic Quality"
+          },
+          "Academic Quality Order": {
+            "dfIdentifier": "label.admittedstudents.academicquality.academicqualityorder",
+            "identifier": "label.admittedstudents.academicquality.academicqualityorder",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Academic Quality Order"
+          }
+        },
+        "title": "Academic Quality"
+      },
+      "Admit Pool Date": {
+        "identifier": "attr.admittedstudents.admitpooldate",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.admitpooldate",
+          "tags": "_lcm_managed_object",
+          "title": "Admit Pool Date"
+        },
+        "displayForms": {
+          "Admit Pool Date": {
+            "dfIdentifier": "label.admittedstudents.admitpooldate",
+            "identifier": "label.admittedstudents.admitpooldate",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Admit Pool Date"
+          }
+        },
+        "title": "Admit Pool Date"
+      },
+      "Admitted Student Key": {
+        "identifier": "attr.admittedstudents.admittedstudentkey",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.admittedstudentkey",
+          "tags": "_lcm_managed_object",
+          "title": "Admitted Student Key"
+        },
+        "displayForms": {
+          "Admitted Student Key": {
+            "dfIdentifier": "label.admittedstudents.admittedstudentkey",
+            "identifier": "label.admittedstudents.admittedstudentkey",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Admitted Student Key"
+          }
+        },
+        "title": "Admitted Student Key"
+      },
+      "Cell Phone": {
+        "identifier": "attr.admittedstudents.cellphone",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.cellphone",
+          "tags": "_lcm_managed_object",
+          "title": "Cell Phone"
+        },
+        "displayForms": {
+          "Cell Phone": {
+            "dfIdentifier": "label.admittedstudents.cellphone",
+            "identifier": "label.admittedstudents.cellphone",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Cell Phone"
+          }
+        },
+        "title": "Cell Phone"
+      },
+      "City": {
+        "identifier": "attr.admittedstudents.city",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.city",
+          "tags": "_lcm_managed_object",
+          "title": "City"
+        },
+        "displayForms": {
+          "City": {
+            "dfIdentifier": "label.admittedstudents.city",
+            "identifier": "label.admittedstudents.city",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "City"
+          }
+        },
+        "title": "City"
+      },
+      "Client ID": {
+        "identifier": "attr.admittedstudents.clientid",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.clientid",
+          "tags": "_lcm_managed_object",
+          "title": "Client ID"
+        },
+        "displayForms": {
+          "Client ID": {
+            "dfIdentifier": "label.admittedstudents.clientid",
+            "identifier": "label.admittedstudents.clientid",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Client ID"
+          }
+        },
+        "title": "Client ID"
+      },
+      "Counselor id": {
+        "identifier": "attr.admittedstudents.counselorid",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.counselorid",
+          "tags": "_lcm_managed_object",
+          "title": "Counselor id"
+        },
+        "displayForms": {
+          "Counselor id": {
+            "dfIdentifier": "label.admittedstudents.counselorid",
+            "identifier": "label.admittedstudents.counselorid",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Counselor id"
+          }
+        },
+        "title": "Counselor id"
+      },
+      "Country": {
+        "identifier": "attr.admittedstudents.country",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.country",
+          "tags": "_lcm_managed_object",
+          "title": "Country"
+        },
+        "displayForms": {
+          "Country": {
+            "dfIdentifier": "label.admittedstudents.country",
+            "identifier": "label.admittedstudents.country",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Country"
+          }
+        },
+        "title": "Country"
+      },
+      "County": {
+        "identifier": "attr.admittedstudents.county",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.county",
+          "tags": "_lcm_managed_object",
+          "title": "County"
+        },
+        "displayForms": {
+          "County": {
+            "dfIdentifier": "label.admittedstudents.county",
+            "identifier": "label.admittedstudents.county",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "County"
+          }
+        },
+        "title": "County"
+      },
+      "Decision Type": {
+        "identifier": "attr.admittedstudents.decisiontype",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.decisiontype",
+          "tags": "_lcm_managed_object",
+          "title": "Decision Type"
+        },
+        "displayForms": {
+          "Decision Type": {
+            "dfIdentifier": "label.admittedstudents.decisiontype",
+            "identifier": "label.admittedstudents.decisiontype",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Decision Type"
+          }
+        },
+        "title": "Decision Type"
+      },
+      "EAB Deposit Paid Date": {
+        "identifier": "attr.admittedstudents.eabdepositpaiddate",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.eabdepositpaiddate",
+          "tags": "_lcm_managed_object",
+          "title": "EAB Deposit Paid Date"
+        },
+        "displayForms": {
+          "EAB Deposit Paid Date": {
+            "dfIdentifier": "label.admittedstudents.eabdepositpaiddate",
+            "identifier": "label.admittedstudents.eabdepositpaiddate",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "EAB Deposit Paid Date"
+          }
+        },
+        "title": "EAB Deposit Paid Date"
+      },
+      "Email": {
+        "identifier": "attr.admittedstudents.email",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.email",
+          "tags": "_lcm_managed_object",
+          "title": "Email"
+        },
+        "displayForms": {
+          "Email": {
+            "dfIdentifier": "label.admittedstudents.email",
+            "identifier": "label.admittedstudents.email",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Email"
+          }
+        },
+        "title": "Email"
+      },
+      "Entry Year": {
+        "identifier": "attr.admittedstudents.entryyear",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.entryyear",
+          "tags": "_lcm_managed_object",
+          "title": "Entry Year"
+        },
+        "displayForms": {
+          "Entry Year": {
+            "dfIdentifier": "label.admittedstudents.entryyear",
+            "identifier": "label.admittedstudents.entryyear",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Entry Year"
+          }
+        },
+        "title": "Entry Year"
+      },
+      "Ethnicity": {
+        "identifier": "attr.admittedstudents.ethnicity",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.ethnicity",
+          "tags": "_lcm_managed_object",
+          "title": "Ethnicity"
+        },
+        "displayForms": {
+          "Ethnicity": {
+            "dfIdentifier": "label.admittedstudents.ethnicity",
+            "identifier": "label.admittedstudents.ethnicity",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Ethnicity"
+          }
+        },
+        "title": "Ethnicity"
+      },
+      "First Name": {
+        "identifier": "attr.admittedstudents.firstname",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.firstname",
+          "tags": "_lcm_managed_object",
+          "title": "First Name"
+        },
+        "displayForms": {
+          "First Name": {
+            "dfIdentifier": "label.admittedstudents.firstname",
+            "identifier": "label.admittedstudents.firstname",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "First Name"
+          }
+        },
+        "title": "First Name"
+      },
+      "Gender": {
+        "identifier": "attr.admittedstudents.gender",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.gender",
+          "tags": "_lcm_managed_object",
+          "title": "Gender"
+        },
+        "displayForms": {
+          "Gender": {
+            "dfIdentifier": "label.admittedstudents.gender",
+            "identifier": "label.admittedstudents.gender",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Gender"
+          }
+        },
+        "title": "Gender"
+      },
+      "High School Name": {
+        "identifier": "attr.admittedstudents.highschoolname",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.highschoolname",
+          "tags": "_lcm_managed_object",
+          "title": "High School Name"
+        },
+        "displayForms": {
+          "High School Name": {
+            "dfIdentifier": "label.admittedstudents.highschoolname",
+            "identifier": "label.admittedstudents.highschoolname",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "High School Name"
+          }
+        },
+        "title": "High School Name"
+      },
+      "Home Phone": {
+        "identifier": "attr.admittedstudents.homephone",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.homephone",
+          "tags": "_lcm_managed_object",
+          "title": "Home Phone"
+        },
+        "displayForms": {
+          "Home Phone": {
+            "dfIdentifier": "label.admittedstudents.homephone",
+            "identifier": "label.admittedstudents.homephone",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Home Phone"
+          }
+        },
+        "title": "Home Phone"
+      },
+      "Last Name": {
+        "identifier": "attr.admittedstudents.lastname",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.lastname",
+          "tags": "_lcm_managed_object",
+          "title": "Last Name"
+        },
+        "displayForms": {
+          "Last Name": {
+            "dfIdentifier": "label.admittedstudents.lastname",
+            "identifier": "label.admittedstudents.lastname",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Last Name"
+          }
+        },
+        "title": "Last Name"
+      },
+      "Major": {
+        "identifier": "attr.admittedstudents.major",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.major",
+          "tags": "_lcm_managed_object",
+          "title": "Major"
+        },
+        "displayForms": {
+          "Major": {
+            "dfIdentifier": "label.admittedstudents.major",
+            "identifier": "label.admittedstudents.major",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Major"
+          }
+        },
+        "title": "Major"
+      },
+      "Maybe More Info Financial": {
+        "identifier": "attr.admittedstudents.maybemoreinfofinancial",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.maybemoreinfofinancial",
+          "tags": "_lcm_managed_object",
+          "title": "Maybe More Info Financial"
+        },
+        "displayForms": {
+          "Maybe More Info Financial": {
+            "dfIdentifier": "label.admittedstudents.maybemoreinfofinancial",
+            "identifier": "label.admittedstudents.maybemoreinfofinancial",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Maybe More Info Financial"
+          }
+        },
+        "title": "Maybe More Info Financial"
+      },
+      "Maybe More Info Housing": {
+        "identifier": "attr.admittedstudents.maybemoreinfohousing",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.maybemoreinfohousing",
+          "tags": "_lcm_managed_object",
+          "title": "Maybe More Info Housing"
+        },
+        "displayForms": {
+          "Maybe More Info Housing": {
+            "dfIdentifier": "label.admittedstudents.maybemoreinfohousing",
+            "identifier": "label.admittedstudents.maybemoreinfohousing",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Maybe More Info Housing"
+          }
+        },
+        "title": "Maybe More Info Housing"
+      },
+      "Maybe More Info Majors": {
+        "identifier": "attr.admittedstudents.maybemoreinfomajors",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.maybemoreinfomajors",
+          "tags": "_lcm_managed_object",
+          "title": "Maybe More Info Majors"
+        },
+        "displayForms": {
+          "Maybe More Info Majors": {
+            "dfIdentifier": "label.admittedstudents.maybemoreinfomajors",
+            "identifier": "label.admittedstudents.maybemoreinfomajors",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Maybe More Info Majors"
+          }
+        },
+        "title": "Maybe More Info Majors"
+      },
+      "Maybe More Info Other Explain": {
+        "identifier": "attr.admittedstudents.maybemoreinfootherexplain",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.maybemoreinfootherexplain",
+          "tags": "_lcm_managed_object",
+          "title": "Maybe More Info Other Explain"
+        },
+        "displayForms": {
+          "Maybe More Info Other Explain": {
+            "dfIdentifier": "label.admittedstudents.maybemoreinfootherexplain",
+            "identifier": "label.admittedstudents.maybemoreinfootherexplain",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Maybe More Info Other Explain"
+          }
+        },
+        "title": "Maybe More Info Other Explain"
+      },
+      "Maybe More Info Other Reason": {
+        "identifier": "attr.admittedstudents.maybemoreinfootherreason",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.maybemoreinfootherreason",
+          "tags": "_lcm_managed_object",
+          "title": "Maybe More Info Other Reason"
+        },
+        "displayForms": {
+          "Maybe More Info Other Reason": {
+            "dfIdentifier": "label.admittedstudents.maybemoreinfootherreason",
+            "identifier": "label.admittedstudents.maybemoreinfootherreason",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Maybe More Info Other Reason"
+          }
+        },
+        "title": "Maybe More Info Other Reason"
+      },
+      "Maybe More Info Other School": {
+        "identifier": "attr.admittedstudents.maybemoreinfootherschool",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.maybemoreinfootherschool",
+          "tags": "_lcm_managed_object",
+          "title": "Maybe More Info Other School"
+        },
+        "displayForms": {
+          "Maybe More Info Other School": {
+            "dfIdentifier": "label.admittedstudents.maybemoreinfootherschool",
+            "identifier": "label.admittedstudents.maybemoreinfootherschool",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Maybe More Info Other School"
+          }
+        },
+        "title": "Maybe More Info Other School"
+      },
+      "Maybe More Info This School": {
+        "identifier": "attr.admittedstudents.maybemoreinfothisschool",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.maybemoreinfothisschool",
+          "tags": "_lcm_managed_object",
+          "title": "Maybe More Info This School"
+        },
+        "displayForms": {
+          "Maybe More Info This School": {
+            "dfIdentifier": "label.admittedstudents.maybemoreinfothisschool",
+            "identifier": "label.admittedstudents.maybemoreinfothisschool",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Maybe More Info This School"
+          }
+        },
+        "title": "Maybe More Info This School"
+      },
+      "Name": {
+        "identifier": "attr.yielddates.name",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.yielddates.name",
+          "tags": "_lcm_managed_object",
+          "title": "Name"
+        },
+        "displayForms": {
+          "Name": {
+            "dfIdentifier": "label.yielddates.name",
+            "identifier": "label.yielddates.name",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Name"
+          }
+        },
+        "title": "Name"
+      },
+      "Prefer Contact By Email": {
+        "identifier": "attr.admittedstudents.prefercontactbyemail",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.prefercontactbyemail",
+          "tags": "_lcm_managed_object",
+          "title": "Prefer Contact By Email"
+        },
+        "displayForms": {
+          "Prefer Contact By Email": {
+            "dfIdentifier": "label.admittedstudents.prefercontactbyemail",
+            "identifier": "label.admittedstudents.prefercontactbyemail",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Prefer Contact By Email"
+          }
+        },
+        "title": "Prefer Contact By Email"
+      },
+      "Prefer Contact by Phone": {
+        "identifier": "attr.admittedstudents.prefercontactbyphone",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.prefercontactbyphone",
+          "tags": "_lcm_managed_object",
+          "title": "Prefer Contact by Phone"
+        },
+        "displayForms": {
+          "Prefer Contact by Phone": {
+            "dfIdentifier": "label.admittedstudents.prefercontactbyphone",
+            "identifier": "label.admittedstudents.prefercontactbyphone",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Prefer Contact by Phone"
+          }
+        },
+        "title": "Prefer Contact by Phone"
+      },
+      "Prefer Contact by Text": {
+        "identifier": "attr.admittedstudents.prefercontact",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.prefercontact",
+          "tags": "_lcm_managed_object",
+          "title": "Prefer Contact by Text"
+        },
+        "displayForms": {
+          "Prefer Contact by Text": {
+            "dfIdentifier": "label.admittedstudents.prefercontact",
+            "identifier": "label.admittedstudents.prefercontact",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Prefer Contact by Text"
+          }
+        },
+        "title": "Prefer Contact by Text"
+      },
+      "Priority and Rank Current As of": {
+        "identifier": "attr.admittedstudents.priority",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.priority",
+          "tags": "_lcm_managed_object",
+          "title": "Priority and Rank Current As of"
+        },
+        "displayForms": {
+          "Priority and Rank Current As of": {
+            "dfIdentifier": "label.admittedstudents.priority",
+            "identifier": "label.admittedstudents.priority",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Priority and Rank Current As of"
+          }
+        },
+        "title": "Priority and Rank Current As of"
+      },
+      "Priority Last Changed": {
+        "identifier": "attr.admittedstudents.prioritychangedate",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.prioritychangedate",
+          "tags": "_lcm_managed_object",
+          "title": "Priority Last Changed"
+        },
+        "displayForms": {
+          "Priority Last Changed": {
+            "dfIdentifier": "label.admittedstudents.prioritychangedate",
+            "identifier": "label.admittedstudents.prioritychangedate",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Priority Last Changed"
+          }
+        },
+        "title": "Priority Last Changed"
+      },
+      "State": {
+        "identifier": "attr.admittedstudents.state",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.state",
+          "tags": "_lcm_managed_object",
+          "title": "State"
+        },
+        "displayForms": {
+          "State": {
+            "dfIdentifier": "label.admittedstudents.state",
+            "identifier": "label.admittedstudents.state",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "State"
+          }
+        },
+        "title": "State"
+      },
+      "Survey Response": {
+        "identifier": "attr.admittedstudents.surveyresponse",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.surveyresponse",
+          "tags": "_lcm_managed_object",
+          "title": "Survey Response"
+        },
+        "displayForms": {
+          "Survey Response": {
+            "dfIdentifier": "label.admittedstudents.surveyresponse",
+            "identifier": "label.admittedstudents.surveyresponse",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Survey Response"
+          },
+          "Survey Response Order": {
+            "dfIdentifier": "label.admittedstudents.academicquality.surveyresponseorder",
+            "identifier": "label.admittedstudents.academicquality.surveyresponseorder",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Survey Response Order"
+          }
+        },
+        "title": "Survey Response"
+      },
+      "Survey Response Last Changed": {
+        "identifier": "attr.admittedstudents.schoolrecentresponsedate",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.schoolrecentresponsedate",
+          "tags": "_lcm_managed_object",
+          "title": "Survey Response Last Changed"
+        },
+        "displayForms": {
+          "Survey Response Last Changed": {
+            "dfIdentifier": "label.admittedstudents.schoolrecentresponsedate",
+            "identifier": "label.admittedstudents.schoolrecentresponsedate",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Survey Response Last Changed"
+          }
+        },
+        "title": "Survey Response Last Changed"
+      },
+      "Value": {
+        "identifier": "attr.yielddates.value",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.yielddates.value",
+          "tags": "_lcm_managed_object",
+          "title": "Value"
+        },
+        "displayForms": {
+          "Value": {
+            "dfIdentifier": "label.yielddates.value",
+            "identifier": "label.yielddates.value",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Value"
+          }
+        },
+        "title": "Value"
+      },
+      "Yield Priority": {
+        "identifier": "attr.admittedstudents.yieldpriority",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.yieldpriority",
+          "tags": "_lcm_managed_object",
+          "title": "Yield Priority"
+        },
+        "displayForms": {
+          "Yield Priority": {
+            "dfIdentifier": "label.admittedstudents.yieldpriority",
+            "identifier": "label.admittedstudents.yieldpriority",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Yield Priority"
+          },
+          "Yield Priority Order": {
+            "dfIdentifier": "label.admittedstudents.yieldprioritynew.yieldpriorityorder",
+            "identifier": "label.admittedstudents.yieldprioritynew.yieldpriorityorder",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Yield Priority Order"
+          }
+        },
+        "title": "Yield Priority"
+      },
+      "Yield Rank": {
+        "identifier": "attr.admittedstudents.yieldrank",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.yieldrank",
+          "tags": "_lcm_managed_object",
+          "title": "Yield Rank"
+        },
+        "displayForms": {
+          "Yield Rank": {
+            "dfIdentifier": "label.admittedstudents.yieldrank",
+            "identifier": "label.admittedstudents.yieldrank",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Yield Rank"
+          },
+          "Yield Rank Order": {
+            "dfIdentifier": "label.admittedstudents.deposited.yieldrankorder",
+            "identifier": "label.admittedstudents.deposited.yieldrankorder",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Yield Rank Order"
+          }
+        },
+        "title": "Yield Rank"
+      },
+      "Yield Rank Last Changed": {
+        "identifier": "attr.admittedstudents.yieldrankchangedate",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.yieldrankchangedate",
+          "tags": "_lcm_managed_object",
+          "title": "Yield Rank Last Changed"
+        },
+        "displayForms": {
+          "Yield Rank Last Changed": {
+            "dfIdentifier": "label.admittedstudents.yieldrankchangedate",
+            "identifier": "label.admittedstudents.yieldrankchangedate",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Yield Rank Last Changed"
+          }
+        },
+        "title": "Yield Rank Last Changed"
+      },
+      "Zip Code": {
+        "identifier": "attr.admittedstudents.zipcode",
+        "tags": "_lcm_managed_object",
+        "defaultDisplayForm": {
+          "identifier": "label.admittedstudents.zipcode",
+          "tags": "_lcm_managed_object",
+          "title": "Zip Code"
+        },
+        "displayForms": {
+          "Zip Code": {
+            "dfIdentifier": "label.admittedstudents.zipcode",
+            "identifier": "label.admittedstudents.zipcode",
+            "tags": "_lcm_managed_object",
+            "dfTags": "_lcm_managed_object",
+            "title": "Zip Code"
+          }
+        },
+        "title": "Zip Code"
+      }
+    },
+    "visualizations": {
+      "TestAnalyze": {
+        "identifier": "abfJkSO5b38J",
+        "tags": "_lcm_managed_object",
+        "title": "TestAnalyze"
+      }
+    },
+    "dateDataSets": {}
+  }
